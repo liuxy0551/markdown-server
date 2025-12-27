@@ -45,6 +45,6 @@ const app = http.createServer((req,res)=>{
     };
 });
 
-app.listen(9000, () => {
-    console.log('Server is running on 9000')
+app.listen(3057, () => {
+    console.log('Server is running on 3057')
 }) // 启动服务
